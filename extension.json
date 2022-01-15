@@ -1,0 +1,13 @@
+{
+  "name": "Unsigned Integer Display",
+  "apiVersion": "1.0.0",
+  "author": "Tim Reyes",
+  "version": "0.0.1",
+  "description": "Converts any byte array input fields to integer fields.",
+  "extensions": {
+    "Unsigned Integer Display": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
